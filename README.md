@@ -1,1 +1,1 @@
-# rust-experiment
+# rust-guessing-game
